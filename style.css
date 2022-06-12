@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     line-height: 1.5;
     color: rgb(230, 230, 230);
     background-image: url(./img/img1.jpg);
@@ -15,7 +15,7 @@ body {
 
 .container {
     width: 100%;
-    margin: 3% auto;
+    margin: 5% auto;
     display: flex;
     flex-direction: column;
     align-items: center;
